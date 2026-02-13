@@ -1,0 +1,8 @@
+[
+  { "title": "GitHub", "url": "https://github.com" },
+  { "title": "Experiments", "url": "#" },
+  { "title": "Docs", "url": "#" },
+  { "title": "Playground", "url": "#" },
+  { "title": "Email", "url": "mailto:your@email.com" },
+  { "title": "LinkedIn", "url": "https://linkedin.com" }
+]

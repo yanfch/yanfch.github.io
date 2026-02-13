@@ -1,0 +1,6 @@
+{
+  "backend": ["Go", "Python", "Node.js", "PostgreSQL", "Redis", "gRPC"],
+  "aiData": ["PyTorch", "LangChain", "pgvector", "Pandas", "ONNX"],
+  "infrastructure": ["AWS", "Docker", "Terraform", "GitHub Actions", "NATS"],
+  "frontend": ["TypeScript", "React", "Next.js"]
+}

@@ -1,0 +1,5 @@
+{
+  "whatIBuild": "Backend services, CLI tools, and data pipelines. Most of my work involves designing APIs, building ETL systems, and writing infrastructure-as-code for cloud deployments. Languages: Go, Python, TypeScript.",
+  "howIThink": "Keep interfaces small. Make failures obvious. Prefer boring technology for critical paths and save complexity for where it earns its cost. Tests should describe behavior, not implementation.",
+  "currentExploration": "Retrieval-augmented generation for internal knowledge bases, structured output from LLMs for code analysis, and event-driven architectures using NATS and CloudEvents."
+}

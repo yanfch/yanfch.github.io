@@ -1,0 +1,32 @@
+[
+  {
+    "category": "CLI",
+    "name": "infra-seed",
+    "description": "Scaffolds cloud infrastructure from a single YAML manifest. Generates Terraform modules, CI pipelines, and environment configs.",
+    "url": "#"
+  },
+  {
+    "category": "Backend",
+    "name": "pipestream",
+    "description": "Lightweight ETL framework for event-driven data pipelines. Supports backpressure, dead-letter queues, and pluggable connectors for Postgres, S3, and Kafka.",
+    "url": "#"
+  },
+  {
+    "category": "AI Tool",
+    "name": "diffscope",
+    "description": "Code review agent that parses git diffs, builds AST context per file, and generates inline comments using structured LLM output.",
+    "url": "#"
+  },
+  {
+    "category": "Library",
+    "name": "tokenkit",
+    "description": "Go library for token counting and chunk splitting across OpenAI, Anthropic, and local model tokenizers. Used in RAG preprocessing.",
+    "url": "#"
+  },
+  {
+    "category": "Infrastructure",
+    "name": "deploy-gate",
+    "description": "Deployment gating service that runs smoke tests, checks canary metrics, and auto-promotes or rolls back releases via GitHub Actions webhooks.",
+    "url": "#"
+  }
+]
