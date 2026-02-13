@@ -1,8 +1,6 @@
 [
-  { "title": "GitHub", "url": "https://github.com" },
-  { "title": "Experiments", "url": "#" },
-  { "title": "Docs", "url": "#" },
-  { "title": "Playground", "url": "#" },
-  { "title": "Email", "url": "mailto:your@email.com" },
-  { "title": "LinkedIn", "url": "https://linkedin.com" }
+  { "title": "GitHub", "url": "https://github.com/yanfch", "icon": "github" },
+  { "title": "Email", "url": "mailto:fu.yanfch@gmail.com", "icon": "mail" },
+  { "title": "LinkedIn", "url": "https://linkedin.com/in/fucheng-yan-7bb719261", "icon": "linkedin" },
+  { "title": "Experiments", "url": "#", "icon": "flask" }
 ]

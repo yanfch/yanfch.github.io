@@ -1,6 +1,4 @@
 {
-  "backend": ["Go", "Python", "Node.js", "PostgreSQL", "Redis", "gRPC"],
-  "aiData": ["PyTorch", "LangChain", "pgvector", "Pandas", "ONNX"],
-  "infrastructure": ["AWS", "Docker", "Terraform", "GitHub Actions", "NATS"],
-  "frontend": ["TypeScript", "React", "Next.js"]
+  "engineering": ["Java", "Go", "Node.js", "Distributed Systems", "Observability"],
+  "exploring": ["Web3", "AI Agents"]
 }

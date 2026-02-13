@@ -1,5 +1,5 @@
 {
-  "whatIBuild": "Backend services, CLI tools, and data pipelines. Most of my work involves designing APIs, building ETL systems, and writing infrastructure-as-code for cloud deployments. Languages: Go, Python, TypeScript.",
-  "howIThink": "Keep interfaces small. Make failures obvious. Prefer boring technology for critical paths and save complexity for where it earns its cost. Tests should describe behavior, not implementation.",
-  "currentExploration": "Retrieval-augmented generation for internal knowledge bases, structured output from LLMs for code analysis, and event-driven architectures using NATS and CloudEvents."
+  "whatIBuild": "Microservice architectures, observability platforms, and global system integrations. Migrated monolithic systems to 60+ services, built full tracing stacks with SkyWalking/OTel, and delivered cross-border integrations with overseas third-party platforms.",
+  "howIThink": "Observability first — if you can't see it, you can't fix it. Prefer incremental migration over big rewrites. Contribute upstream when the tool doesn't do what you need. Keep services small, contracts explicit, and deployments boring.",
+  "currentExploration": "Building an AI voice ordering and reservation product. Developing blockchain and wallet projects to transition into Web3. Interested in AI agent applications and on-chain system design."
 }
