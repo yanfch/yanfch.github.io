@@ -1,6 +1,10 @@
 [
   { "title": "GitHub", "url": "https://github.com/yanfch", "icon": "github" },
-  { "title": "Email", "url": "mailto:fu.yanfch@gmail.com", "icon": "mail" },
-  { "title": "LinkedIn", "url": "https://linkedin.com/in/fucheng-yan-7bb719261", "icon": "linkedin" },
+  { "title": "Email", "url": "mailto:yanfch.china@gmail.com", "icon": "mail" },
+  {
+    "title": "LinkedIn",
+    "url": "https://linkedin.com/in/fucheng-yan-7bb719261",
+    "icon": "linkedin"
+  },
   { "title": "Experiments", "url": "#", "icon": "flask" }
 ]
